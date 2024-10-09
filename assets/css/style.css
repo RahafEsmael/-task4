@@ -1,0 +1,35 @@
+.btn{
+    background-color: rgb(63 186 191);
+    color: white;
+    width: 25%;
+}
+/*.carousel-caption {
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-primary-rgb), var(--bs-text-opacity)) !important;
+  }*/
+.carousel-caption {
+    border-radius: 20px;
+    border-color:rgb(63 186 191) ;
+    background-color: rgba(240, 255, 255, 0.46);
+}
+.navbar-top{
+    background-color:rgb(63 186 191) ;
+    color: white;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.border-re{
+    border-style: dashed;
+    border-color:rgb(63 186 191) ;
+
+}
+.table{
+    background-color: rgb(247 253 253);
+}
+.card3
+{background-color: rgb(247 253 253);
+}
+.card5{
+background-color: rgb(247 253 253);
+}
